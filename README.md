@@ -26,5 +26,5 @@
 
 ## 📷 Примеры работ
 
-![Пример работы 1](https://github.com/daerhtt/my-profile/blob/main/image_2024-09-19_14-43-02.png)  
-_Сайт для тату-студии_
+![Пример работы 1](https://github.com/sonich228/sonich228/blob/main/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%821.png)  
+_Сайт для заказов японских сладостей_
