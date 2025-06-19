@@ -28,3 +28,11 @@
 
 ![Пример работы 1](https://github.com/sonich228/sonich228/blob/main/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%821.png)  
 _Сайт для заказов японских сладостей_
+
+## 📫 Связаться со мной
+
+- Email: sofika01630@gmail.com
+- Telegram:[https://t.me/bd256]
+- VK:[vk.com/id_s1e2b]
+
+Спасибо, что уделили минуту! Надеюсь, мои проекты вас впечатлили 🎨✨.
