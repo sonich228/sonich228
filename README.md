@@ -1,5 +1,5 @@
 ## 🦽 Привет! Меня зовут София 👋
-[![Profile Banner](https://github.com/sonich228/sonich228/blob/main/ProfileBanner1.jpg)]
+![Profile Banner](https://github.com/sonich228/sonich228/blob/main/ProfileBanner1.jpg)
 *Добро пожаловать на мою страницу!*
 
 ### О себе
