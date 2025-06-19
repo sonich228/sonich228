@@ -32,7 +32,7 @@ _Сайт для заказов японских сладостей_
 ## 📫 Связаться со мной
 
 - Email: sofika01630@gmail.com
-- Telegram:[https://t.me/bd256]
-- VK:[vk.com/id_s1e2b]
+- Telegram:https://t.me/bd256
+- VK:vk.com/id_s1e2b
 
 Спасибо, что уделили минуту! Надеюсь, мои проекты вас впечатлили 🎨✨.
