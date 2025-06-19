@@ -2,7 +2,7 @@
 ![Profile Banner](https://github.com/sonich228/sonich228/main/ProfileBanner1.jpg) 
 *Добро пожаловать на мою страницу!*
 
-###О себе
+### О себе
  !🏭 Сейчас я не работаю, но учусь в техникуме 🏰
  
  !🌱 Сейчас учу языки программирования такие как: JavaScript; HTML; PHP. 😙
